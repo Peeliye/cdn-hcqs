@@ -1,6 +1,7 @@
 
 @media only screen and  (max-width: 1672px) {
 	/*index*/
+	.insider-news .wl-L img{heigit:324px;}
 	.wheel-button.nw{top: 220px;}
 	.wl-slide-cont{top: 40%;}
 	.wl-slide-cont .search-box{margin-top: 40px;}
@@ -10,6 +11,7 @@
 
 @media only screen and  (max-width: 1440px) {
 	/*index*/
+	.insider-news .wl-L img{heigit:324px;}
 	.wheel-button.nw{top: 190px;}
 	.wheel{width: 210px;height: 210px;}
 	.wheel-button.nw{width: 80px;height: 80px;}
@@ -161,6 +163,7 @@
 
 @media only screen and  (max-width: 1280px) {
 	/*index*/
+	.insider-news .wl-L img{heigit:324px;}
 	.wheel-button.nw{top: 105px;}
 	.wl-slide-cont .search-box{width: 240px;}
 	.wl-slide-cont .search-box .search{padding-left: 15px;padding-right: 10px;}
@@ -381,7 +384,7 @@
 	.wl-slide-cont .search-box .search{padding-left: 15px;padding-right: 10px;}
 	.wl-slide-cont .search-box input{width: 180px;height: 20px;line-height: 20px;}
 	.wl-slide-cont .search-box .submit{width: 20px;height: 20px;background-size: 12px 12px;}
-
+	.insider-news .wl-L img{heigit:324px;}
 	.wl-header .wl-nav li a{padding: 0 20px;font-size: 12px;}
 
 	.ind-product .picScroll{width: 650px;}
