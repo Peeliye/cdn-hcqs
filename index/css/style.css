@@ -2,7 +2,7 @@
 .clear {line-height:0;height: 0;font-size: 0;clear:both; zoom: 1;}
 a{color:#333;text-decoration:none;}
 a:hover{color:#f4bb64}
-img{max-width:100%;width:100%}
+img{max-width:100%;}
 em{font-style: normal;}
 button{cursor:pointer;outline: none;border: none;}
 body{max-width:1920px;margin:0 auto;font-size:14px;background:#fff;height: auto;color: #585858;}
