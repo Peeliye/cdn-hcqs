@@ -348,6 +348,22 @@ upload.render({
         }
     }
 });
+// 上传文件
+upload.render({
+    elem:'.ajax-file',
+    url:'/admin/common/upload',
+    accept:'file',
+    before: function(obj) { 
+        layer.load(2, {shade: [0.5, '#000']}); //上传loading
+    },
+    done: function(result) {
+        layer.close(layer.index);
+        if (result.code === 1) {
+            layer.msg('上传成功');
+            this.item.siblings('input').val(result.url);
+        } else layer.msg(result.msg);
+    }
+})
 // 删除相册
 $('.layui-form').delegate('.delete-photo', 'click', function () {
     $(this).parents('.layui-form-item').remove();
