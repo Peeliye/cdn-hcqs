@@ -1,3 +1,4 @@
+
 @media only screen and  (max-width: 1672px) {
 	/*index*/
 	.wheel-button.nw{top: 220px;}
@@ -1329,7 +1330,7 @@
 	.wl-download .soft-wrap{display: block;}
 	.wl-download .soft-wrap .soft-content{width: 100%;display: block}
 	.wl-download .soft-wrap .soft-download-card{width: 100%;margin: 0;}
-	.wl-download .soft-wrap .card-fixed{position: relative;top:0;width:100%;}	
+	.wl-download .soft-wrap .card-fixed{width:100%;}
 }
 
 
@@ -1358,7 +1359,7 @@
 	.wl-download .soft-wrap{display: block;}
 	.wl-download .soft-wrap .soft-content{width: 100%;display: block}
 	.wl-download .soft-wrap .soft-download-card{width: 100%;margin: 0;}
-	.wl-download .soft-wrap .card-fixed{position: relative;top:0;width:100%;}
+	.wl-download .soft-wrap .card-fixed{width:100%;}
 	
 }
 @media only screen and  (max-width: 700px) {
@@ -1427,7 +1428,7 @@
 	.wl-download .soft-wrap{display: block;}
 	.wl-download .soft-wrap .soft-content{width: 100%;display: block}
 	.wl-download .soft-wrap .soft-download-card{width: 100%;margin: 0;}
-	.wl-download .soft-wrap .card-fixed{position: relative;top:0;width:100%;}
+	.wl-download .soft-wrap .card-fixed{width:100%;}
 }
 
 @media only screen and  (max-width: 415px) {
@@ -1446,7 +1447,7 @@
 	.wl-download .soft-wrap{display: block;}
 	.wl-download .soft-wrap .soft-content{width: 100%;display: block}
 	.wl-download .soft-wrap .soft-download-card{width: 100%;margin: 0;}
-	.wl-download .soft-wrap .card-fixed{position: relative;top:0;width:100%;}
+	.wl-download .soft-wrap .card-fixed{width:100%;}
 }
 
 @media only screen and  (max-width: 375px) {
@@ -1457,7 +1458,7 @@
 	.wl-download .soft-wrap{display: block;}
 	.wl-download .soft-wrap .soft-content{width: 100%;display: block}
 	.wl-download .soft-wrap .soft-download-card{width: 100%;margin: 0;}
-	.wl-download .soft-wrap .card-fixed{position: relative;top:0;width:100%;}
+	.wl-download .soft-wrap .card-fixed{width:100%;}
 }
 @media only screen and  (max-width: 320px) {
 	.wl-videos .hot-topic .list li .cont{padding-left: 10px;padding-right: 10px;}
@@ -1466,5 +1467,5 @@
 	.wl-download .soft-wrap{display: block;}
 	.wl-download .soft-wrap .soft-content{width: 100%;display: block}
 	.wl-download .soft-wrap .soft-download-card{width: 100%;margin: 0;}
-	.wl-download .soft-wrap .card-fixed{position: relative;top:0;width:100%;}
+	.wl-download .soft-wrap .card-fixed{width:100%;}
 }
