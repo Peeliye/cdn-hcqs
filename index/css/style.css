@@ -895,7 +895,7 @@ input::-ms-input-placeholder{color: #585858;}
 
 .wl-download .takeaway{background: #666;padding: 20px;border-left:solid green 15px;color:#fff;}
 .wl-download .soft-wrap{display: flex;flex-wrap: nowrap;width: 100%;min-height: 450px;}
-.wl-download .soft-wrap .soft-content{width: 68%;justify-content: space-between;}
+.wl-download .soft-wrap .soft-content{padding-top:10px;width: 69%;justify-content: space-between;}
 .wl-download .soft-content img{width:auto;}
 .wl-download .soft-wrap .soft-download-card{width: 30%;margin-left: 2%;}
 .wl-download .soft-wrap .card-info{width:100%;background: #d1d1d1;}
@@ -904,7 +904,7 @@ input::-ms-input-placeholder{color: #585858;}
 .wl-download .card-info .card-content dt{font-size:16px;}
 .wl-download .card-info .card-content dd{font-size:14px;padding-left: 20px;margin: 5px;word-wrap:break-word;}
 .wl-download a:hover{color:#3c586b;text-decoration: underline;}
-.wl-download .soft-wrap .card-fixed{top:70px;position: fixed;width: 340px;}
+.wl-download .soft-wrap .card-fixed{top:70px;position: sticky;width: 340px;}
 
 
 #goTopBtn1{line-height: 45px;width: 45px;height: 45px;cursor: pointer;background: #4b5e75 url(../images/goTopBtn.jpg)  no-repeat center center;background-size: 100%;position: fixed;bottom: 35px;right: 20px;z-index: 100;border-radius: 50%;}
