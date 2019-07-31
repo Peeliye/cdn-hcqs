@@ -904,7 +904,7 @@ input::-ms-input-placeholder{color: #585858;}
 .wl-download .card-info .card-content dt{font-size:16px;}
 .wl-download .card-info .card-content dd{font-size:14px;padding-left: 20px;margin: 5px;word-wrap:break-word;}
 .wl-download a:hover{color:#3c586b;text-decoration: underline;}
-.wl-download .soft-wrap .card-fixed{top:70px;position: sticky;width: 340px;}
+.wl-download .soft-wrap .card-fixed{top:65px;position: sticky;width: 340px;}
 
 
 #goTopBtn1{line-height: 45px;width: 45px;height: 45px;cursor: pointer;background: #4b5e75 url(../images/goTopBtn.jpg)  no-repeat center center;background-size: 100%;position: fixed;bottom: 35px;right: 20px;z-index: 100;border-radius: 50%;}
